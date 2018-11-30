@@ -158,5 +158,5 @@ helm install example
 
 ## Conclusion 
 
-With Helm installed, you now have the ability to efficiently manage packages of Kubernetes resources, access a repository of existing charts, and control the version history and upgrades of your releases. Happy Helming!
+With Helm installed you have the ability to efficiently manage packages of Kubernetes resources, access a repository of existing charts, and control the version history and upgrades of your releases. 
 
